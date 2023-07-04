@@ -1,4 +1,0 @@
-My first text file on git.
-this files is created locally and will be transferred to remote repository.
-God bless me.
-New line added-- checking working of "git diff " command.
